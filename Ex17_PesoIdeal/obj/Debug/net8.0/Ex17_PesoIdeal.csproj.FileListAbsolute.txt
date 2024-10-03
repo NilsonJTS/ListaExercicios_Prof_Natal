@@ -1,0 +1,15 @@
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex17_PesoIdeal\bin\Debug\net8.0\Ex17_PesoIdeal.exe
+C:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex17_PesoIdeal\bin\Debug\net8.0\Ex17_PesoIdeal.deps.json
+C:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex17_PesoIdeal\bin\Debug\net8.0\Ex17_PesoIdeal.runtimeconfig.json
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex17_PesoIdeal\bin\Debug\net8.0\Ex17_PesoIdeal.dll
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex17_PesoIdeal\bin\Debug\net8.0\Ex17_PesoIdeal.pdb
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex17_PesoIdeal\obj\Debug\net8.0\Ex17_PesoIdeal.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex17_PesoIdeal\obj\Debug\net8.0\Ex17_PesoIdeal.AssemblyInfoInputs.cache
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex17_PesoIdeal\obj\Debug\net8.0\Ex17_PesoIdeal.AssemblyInfo.cs
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex17_PesoIdeal\obj\Debug\net8.0\Ex17_PesoIdeal.csproj.CoreCompileInputs.cache
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex17_PesoIdeal\obj\Debug\net8.0\Ex17_PesoIdeal.sourcelink.json
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex17_PesoIdeal\obj\Debug\net8.0\Ex17_PesoIdeal.dll
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex17_PesoIdeal\obj\Debug\net8.0\refint\Ex17_PesoIdeal.dll
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex17_PesoIdeal\obj\Debug\net8.0\Ex17_PesoIdeal.pdb
+C:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex17_PesoIdeal\obj\Debug\net8.0\Ex17_PesoIdeal.genruntimeconfig.cache
+C:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex17_PesoIdeal\obj\Debug\net8.0\ref\Ex17_PesoIdeal.dll
