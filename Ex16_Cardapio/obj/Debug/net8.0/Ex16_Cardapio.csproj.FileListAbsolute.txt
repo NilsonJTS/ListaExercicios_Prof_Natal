@@ -12,3 +12,4 @@ c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex16_Card
 c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex16_Cardapio\obj\Debug\net8.0\Ex16_Cardapio.pdb
 C:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex16_Cardapio\obj\Debug\net8.0\Ex16_Cardapio.genruntimeconfig.cache
 C:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex16_Cardapio\obj\Debug\net8.0\ref\Ex16_Cardapio.dll
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex16_Cardapio\obj\Debug\net8.0\Ex16_Cardapio.sourcelink.json
