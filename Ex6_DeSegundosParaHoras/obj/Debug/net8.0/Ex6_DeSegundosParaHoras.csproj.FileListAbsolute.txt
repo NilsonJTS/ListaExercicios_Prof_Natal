@@ -1,0 +1,14 @@
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex6_DeSegundosParaHoras\bin\Debug\net8.0\Ex6_DeSegundosParaHoras.exe
+C:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex6_DeSegundosParaHoras\bin\Debug\net8.0\Ex6_DeSegundosParaHoras.deps.json
+C:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex6_DeSegundosParaHoras\bin\Debug\net8.0\Ex6_DeSegundosParaHoras.runtimeconfig.json
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex6_DeSegundosParaHoras\bin\Debug\net8.0\Ex6_DeSegundosParaHoras.dll
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex6_DeSegundosParaHoras\bin\Debug\net8.0\Ex6_DeSegundosParaHoras.pdb
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex6_DeSegundosParaHoras\obj\Debug\net8.0\Ex6_DeSegundosParaHoras.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex6_DeSegundosParaHoras\obj\Debug\net8.0\Ex6_DeSegundosParaHoras.AssemblyInfoInputs.cache
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex6_DeSegundosParaHoras\obj\Debug\net8.0\Ex6_DeSegundosParaHoras.AssemblyInfo.cs
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex6_DeSegundosParaHoras\obj\Debug\net8.0\Ex6_DeSegundosParaHoras.csproj.CoreCompileInputs.cache
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex6_DeSegundosParaHoras\obj\Debug\net8.0\Ex6_DeSegundosParaHoras.dll
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex6_DeSegundosParaHoras\obj\Debug\net8.0\refint\Ex6_DeSegundosParaHoras.dll
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex6_DeSegundosParaHoras\obj\Debug\net8.0\Ex6_DeSegundosParaHoras.pdb
+C:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex6_DeSegundosParaHoras\obj\Debug\net8.0\Ex6_DeSegundosParaHoras.genruntimeconfig.cache
+C:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex6_DeSegundosParaHoras\obj\Debug\net8.0\ref\Ex6_DeSegundosParaHoras.dll

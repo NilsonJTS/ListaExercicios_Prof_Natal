@@ -1,0 +1,14 @@
+C:\Users\ALUNO\Downloads\ExerciciosNatal_Nilson\Ex9_MediaAr_AprovadoReprovado\bin\Debug\net8.0\Ex9_MediaAr_AprovadoReprovado.exe
+C:\Users\ALUNO\Downloads\ExerciciosNatal_Nilson\Ex9_MediaAr_AprovadoReprovado\bin\Debug\net8.0\Ex9_MediaAr_AprovadoReprovado.deps.json
+C:\Users\ALUNO\Downloads\ExerciciosNatal_Nilson\Ex9_MediaAr_AprovadoReprovado\bin\Debug\net8.0\Ex9_MediaAr_AprovadoReprovado.runtimeconfig.json
+C:\Users\ALUNO\Downloads\ExerciciosNatal_Nilson\Ex9_MediaAr_AprovadoReprovado\bin\Debug\net8.0\Ex9_MediaAr_AprovadoReprovado.dll
+C:\Users\ALUNO\Downloads\ExerciciosNatal_Nilson\Ex9_MediaAr_AprovadoReprovado\bin\Debug\net8.0\Ex9_MediaAr_AprovadoReprovado.pdb
+C:\Users\ALUNO\Downloads\ExerciciosNatal_Nilson\Ex9_MediaAr_AprovadoReprovado\obj\Debug\net8.0\Ex9_MediaAr_AprovadoReprovado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO\Downloads\ExerciciosNatal_Nilson\Ex9_MediaAr_AprovadoReprovado\obj\Debug\net8.0\Ex9_MediaAr_AprovadoReprovado.AssemblyInfoInputs.cache
+C:\Users\ALUNO\Downloads\ExerciciosNatal_Nilson\Ex9_MediaAr_AprovadoReprovado\obj\Debug\net8.0\Ex9_MediaAr_AprovadoReprovado.AssemblyInfo.cs
+C:\Users\ALUNO\Downloads\ExerciciosNatal_Nilson\Ex9_MediaAr_AprovadoReprovado\obj\Debug\net8.0\Ex9_MediaAr_AprovadoReprovado.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Downloads\ExerciciosNatal_Nilson\Ex9_MediaAr_AprovadoReprovado\obj\Debug\net8.0\Ex9_MediaAr_AprovadoReprovado.dll
+C:\Users\ALUNO\Downloads\ExerciciosNatal_Nilson\Ex9_MediaAr_AprovadoReprovado\obj\Debug\net8.0\refint\Ex9_MediaAr_AprovadoReprovado.dll
+C:\Users\ALUNO\Downloads\ExerciciosNatal_Nilson\Ex9_MediaAr_AprovadoReprovado\obj\Debug\net8.0\Ex9_MediaAr_AprovadoReprovado.pdb
+C:\Users\ALUNO\Downloads\ExerciciosNatal_Nilson\Ex9_MediaAr_AprovadoReprovado\obj\Debug\net8.0\Ex9_MediaAr_AprovadoReprovado.genruntimeconfig.cache
+C:\Users\ALUNO\Downloads\ExerciciosNatal_Nilson\Ex9_MediaAr_AprovadoReprovado\obj\Debug\net8.0\ref\Ex9_MediaAr_AprovadoReprovado.dll

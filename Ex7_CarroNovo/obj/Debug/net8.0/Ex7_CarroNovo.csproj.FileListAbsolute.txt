@@ -1,0 +1,14 @@
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex7_CarroNovo\bin\Debug\net8.0\Ex7_CarroNovo.exe
+C:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex7_CarroNovo\bin\Debug\net8.0\Ex7_CarroNovo.deps.json
+C:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex7_CarroNovo\bin\Debug\net8.0\Ex7_CarroNovo.runtimeconfig.json
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex7_CarroNovo\bin\Debug\net8.0\Ex7_CarroNovo.dll
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex7_CarroNovo\bin\Debug\net8.0\Ex7_CarroNovo.pdb
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex7_CarroNovo\obj\Debug\net8.0\Ex7_CarroNovo.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex7_CarroNovo\obj\Debug\net8.0\Ex7_CarroNovo.AssemblyInfoInputs.cache
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex7_CarroNovo\obj\Debug\net8.0\Ex7_CarroNovo.AssemblyInfo.cs
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex7_CarroNovo\obj\Debug\net8.0\Ex7_CarroNovo.csproj.CoreCompileInputs.cache
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex7_CarroNovo\obj\Debug\net8.0\Ex7_CarroNovo.dll
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex7_CarroNovo\obj\Debug\net8.0\refint\Ex7_CarroNovo.dll
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex7_CarroNovo\obj\Debug\net8.0\Ex7_CarroNovo.pdb
+C:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex7_CarroNovo\obj\Debug\net8.0\Ex7_CarroNovo.genruntimeconfig.cache
+C:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex7_CarroNovo\obj\Debug\net8.0\ref\Ex7_CarroNovo.dll

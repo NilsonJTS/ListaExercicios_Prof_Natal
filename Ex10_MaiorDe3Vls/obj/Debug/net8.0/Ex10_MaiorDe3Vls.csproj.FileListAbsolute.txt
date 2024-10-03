@@ -1,0 +1,14 @@
+C:\Users\ALUNO\Downloads\ExerciciosNatal_Nilson\Ex10_MaiorDe3Vls\obj\Debug\net8.0\Ex10_MaiorDe3Vls.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO\Downloads\ExerciciosNatal_Nilson\Ex10_MaiorDe3Vls\obj\Debug\net8.0\Ex10_MaiorDe3Vls.AssemblyInfoInputs.cache
+C:\Users\ALUNO\Downloads\ExerciciosNatal_Nilson\Ex10_MaiorDe3Vls\obj\Debug\net8.0\Ex10_MaiorDe3Vls.AssemblyInfo.cs
+C:\Users\ALUNO\Downloads\ExerciciosNatal_Nilson\Ex10_MaiorDe3Vls\obj\Debug\net8.0\Ex10_MaiorDe3Vls.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\Downloads\ExerciciosNatal_Nilson\Ex10_MaiorDe3Vls\bin\Debug\net8.0\Ex10_MaiorDe3Vls.exe
+C:\Users\ALUNO\Downloads\ExerciciosNatal_Nilson\Ex10_MaiorDe3Vls\bin\Debug\net8.0\Ex10_MaiorDe3Vls.deps.json
+C:\Users\ALUNO\Downloads\ExerciciosNatal_Nilson\Ex10_MaiorDe3Vls\bin\Debug\net8.0\Ex10_MaiorDe3Vls.runtimeconfig.json
+C:\Users\ALUNO\Downloads\ExerciciosNatal_Nilson\Ex10_MaiorDe3Vls\bin\Debug\net8.0\Ex10_MaiorDe3Vls.dll
+C:\Users\ALUNO\Downloads\ExerciciosNatal_Nilson\Ex10_MaiorDe3Vls\bin\Debug\net8.0\Ex10_MaiorDe3Vls.pdb
+C:\Users\ALUNO\Downloads\ExerciciosNatal_Nilson\Ex10_MaiorDe3Vls\obj\Debug\net8.0\Ex10_MaiorDe3Vls.dll
+C:\Users\ALUNO\Downloads\ExerciciosNatal_Nilson\Ex10_MaiorDe3Vls\obj\Debug\net8.0\refint\Ex10_MaiorDe3Vls.dll
+C:\Users\ALUNO\Downloads\ExerciciosNatal_Nilson\Ex10_MaiorDe3Vls\obj\Debug\net8.0\Ex10_MaiorDe3Vls.pdb
+C:\Users\ALUNO\Downloads\ExerciciosNatal_Nilson\Ex10_MaiorDe3Vls\obj\Debug\net8.0\Ex10_MaiorDe3Vls.genruntimeconfig.cache
+C:\Users\ALUNO\Downloads\ExerciciosNatal_Nilson\Ex10_MaiorDe3Vls\obj\Debug\net8.0\ref\Ex10_MaiorDe3Vls.dll

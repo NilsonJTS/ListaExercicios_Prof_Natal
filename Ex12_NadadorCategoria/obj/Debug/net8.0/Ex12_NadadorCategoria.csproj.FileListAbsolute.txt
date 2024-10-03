@@ -1,0 +1,14 @@
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex12_NadadorCategoria\bin\Debug\net8.0\Ex12_NadadorCategoria.exe
+C:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex12_NadadorCategoria\bin\Debug\net8.0\Ex12_NadadorCategoria.deps.json
+C:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex12_NadadorCategoria\bin\Debug\net8.0\Ex12_NadadorCategoria.runtimeconfig.json
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex12_NadadorCategoria\bin\Debug\net8.0\Ex12_NadadorCategoria.dll
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex12_NadadorCategoria\bin\Debug\net8.0\Ex12_NadadorCategoria.pdb
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex12_NadadorCategoria\obj\Debug\net8.0\Ex12_NadadorCategoria.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex12_NadadorCategoria\obj\Debug\net8.0\Ex12_NadadorCategoria.AssemblyInfoInputs.cache
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex12_NadadorCategoria\obj\Debug\net8.0\Ex12_NadadorCategoria.AssemblyInfo.cs
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex12_NadadorCategoria\obj\Debug\net8.0\Ex12_NadadorCategoria.csproj.CoreCompileInputs.cache
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex12_NadadorCategoria\obj\Debug\net8.0\Ex12_NadadorCategoria.dll
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex12_NadadorCategoria\obj\Debug\net8.0\refint\Ex12_NadadorCategoria.dll
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex12_NadadorCategoria\obj\Debug\net8.0\Ex12_NadadorCategoria.pdb
+C:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex12_NadadorCategoria\obj\Debug\net8.0\Ex12_NadadorCategoria.genruntimeconfig.cache
+C:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex12_NadadorCategoria\obj\Debug\net8.0\ref\Ex12_NadadorCategoria.dll

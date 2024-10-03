@@ -1,0 +1,14 @@
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex2_Leia3NumInteiros\bin\Debug\net8.0\Ex2_Leia3NumInteiros.exe
+C:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex2_Leia3NumInteiros\bin\Debug\net8.0\Ex2_Leia3NumInteiros.deps.json
+C:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex2_Leia3NumInteiros\bin\Debug\net8.0\Ex2_Leia3NumInteiros.runtimeconfig.json
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex2_Leia3NumInteiros\bin\Debug\net8.0\Ex2_Leia3NumInteiros.dll
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex2_Leia3NumInteiros\bin\Debug\net8.0\Ex2_Leia3NumInteiros.pdb
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex2_Leia3NumInteiros\obj\Debug\net8.0\Ex2_Leia3NumInteiros.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex2_Leia3NumInteiros\obj\Debug\net8.0\Ex2_Leia3NumInteiros.AssemblyInfoInputs.cache
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex2_Leia3NumInteiros\obj\Debug\net8.0\Ex2_Leia3NumInteiros.AssemblyInfo.cs
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex2_Leia3NumInteiros\obj\Debug\net8.0\Ex2_Leia3NumInteiros.csproj.CoreCompileInputs.cache
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex2_Leia3NumInteiros\obj\Debug\net8.0\Ex2_Leia3NumInteiros.dll
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex2_Leia3NumInteiros\obj\Debug\net8.0\refint\Ex2_Leia3NumInteiros.dll
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex2_Leia3NumInteiros\obj\Debug\net8.0\Ex2_Leia3NumInteiros.pdb
+C:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex2_Leia3NumInteiros\obj\Debug\net8.0\Ex2_Leia3NumInteiros.genruntimeconfig.cache
+C:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex2_Leia3NumInteiros\obj\Debug\net8.0\ref\Ex2_Leia3NumInteiros.dll

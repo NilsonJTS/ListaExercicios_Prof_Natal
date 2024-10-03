@@ -1,0 +1,14 @@
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex5_MediaPondAluno\bin\Debug\net8.0\Ex5_MediaPondAluno.exe
+C:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex5_MediaPondAluno\bin\Debug\net8.0\Ex5_MediaPondAluno.deps.json
+C:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex5_MediaPondAluno\bin\Debug\net8.0\Ex5_MediaPondAluno.runtimeconfig.json
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex5_MediaPondAluno\bin\Debug\net8.0\Ex5_MediaPondAluno.dll
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex5_MediaPondAluno\bin\Debug\net8.0\Ex5_MediaPondAluno.pdb
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex5_MediaPondAluno\obj\Debug\net8.0\Ex5_MediaPondAluno.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex5_MediaPondAluno\obj\Debug\net8.0\Ex5_MediaPondAluno.AssemblyInfoInputs.cache
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex5_MediaPondAluno\obj\Debug\net8.0\Ex5_MediaPondAluno.AssemblyInfo.cs
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex5_MediaPondAluno\obj\Debug\net8.0\Ex5_MediaPondAluno.csproj.CoreCompileInputs.cache
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex5_MediaPondAluno\obj\Debug\net8.0\Ex5_MediaPondAluno.dll
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex5_MediaPondAluno\obj\Debug\net8.0\refint\Ex5_MediaPondAluno.dll
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex5_MediaPondAluno\obj\Debug\net8.0\Ex5_MediaPondAluno.pdb
+C:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex5_MediaPondAluno\obj\Debug\net8.0\Ex5_MediaPondAluno.genruntimeconfig.cache
+C:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex5_MediaPondAluno\obj\Debug\net8.0\ref\Ex5_MediaPondAluno.dll

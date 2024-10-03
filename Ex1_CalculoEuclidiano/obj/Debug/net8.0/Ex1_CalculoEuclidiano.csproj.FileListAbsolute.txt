@@ -1,0 +1,14 @@
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex1_CalculoEuclidiano\bin\Debug\net8.0\Ex1_CalculoEuclidiano.exe
+C:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex1_CalculoEuclidiano\bin\Debug\net8.0\Ex1_CalculoEuclidiano.deps.json
+C:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex1_CalculoEuclidiano\bin\Debug\net8.0\Ex1_CalculoEuclidiano.runtimeconfig.json
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex1_CalculoEuclidiano\bin\Debug\net8.0\Ex1_CalculoEuclidiano.dll
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex1_CalculoEuclidiano\bin\Debug\net8.0\Ex1_CalculoEuclidiano.pdb
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex1_CalculoEuclidiano\obj\Debug\net8.0\Ex1_CalculoEuclidiano.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex1_CalculoEuclidiano\obj\Debug\net8.0\Ex1_CalculoEuclidiano.AssemblyInfoInputs.cache
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex1_CalculoEuclidiano\obj\Debug\net8.0\Ex1_CalculoEuclidiano.AssemblyInfo.cs
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex1_CalculoEuclidiano\obj\Debug\net8.0\Ex1_CalculoEuclidiano.csproj.CoreCompileInputs.cache
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex1_CalculoEuclidiano\obj\Debug\net8.0\Ex1_CalculoEuclidiano.dll
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex1_CalculoEuclidiano\obj\Debug\net8.0\refint\Ex1_CalculoEuclidiano.dll
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex1_CalculoEuclidiano\obj\Debug\net8.0\Ex1_CalculoEuclidiano.pdb
+C:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex1_CalculoEuclidiano\obj\Debug\net8.0\Ex1_CalculoEuclidiano.genruntimeconfig.cache
+C:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex1_CalculoEuclidiano\obj\Debug\net8.0\ref\Ex1_CalculoEuclidiano.dll
