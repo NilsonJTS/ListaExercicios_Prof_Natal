@@ -1,0 +1,15 @@
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex19_EscolheTipodeMedia\bin\Debug\net8.0\Ex19_EscolheTipodeMedia.exe
+C:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex19_EscolheTipodeMedia\bin\Debug\net8.0\Ex19_EscolheTipodeMedia.deps.json
+C:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex19_EscolheTipodeMedia\bin\Debug\net8.0\Ex19_EscolheTipodeMedia.runtimeconfig.json
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex19_EscolheTipodeMedia\bin\Debug\net8.0\Ex19_EscolheTipodeMedia.dll
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex19_EscolheTipodeMedia\bin\Debug\net8.0\Ex19_EscolheTipodeMedia.pdb
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex19_EscolheTipodeMedia\obj\Debug\net8.0\Ex19_EscolheTipodeMedia.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex19_EscolheTipodeMedia\obj\Debug\net8.0\Ex19_EscolheTipodeMedia.AssemblyInfoInputs.cache
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex19_EscolheTipodeMedia\obj\Debug\net8.0\Ex19_EscolheTipodeMedia.AssemblyInfo.cs
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex19_EscolheTipodeMedia\obj\Debug\net8.0\Ex19_EscolheTipodeMedia.csproj.CoreCompileInputs.cache
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex19_EscolheTipodeMedia\obj\Debug\net8.0\Ex19_EscolheTipodeMedia.sourcelink.json
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex19_EscolheTipodeMedia\obj\Debug\net8.0\Ex19_EscolheTipodeMedia.dll
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex19_EscolheTipodeMedia\obj\Debug\net8.0\refint\Ex19_EscolheTipodeMedia.dll
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex19_EscolheTipodeMedia\obj\Debug\net8.0\Ex19_EscolheTipodeMedia.pdb
+C:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex19_EscolheTipodeMedia\obj\Debug\net8.0\Ex19_EscolheTipodeMedia.genruntimeconfig.cache
+C:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex19_EscolheTipodeMedia\obj\Debug\net8.0\ref\Ex19_EscolheTipodeMedia.dll
