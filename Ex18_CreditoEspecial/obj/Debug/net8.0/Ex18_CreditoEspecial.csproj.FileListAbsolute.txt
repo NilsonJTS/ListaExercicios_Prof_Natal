@@ -1,0 +1,15 @@
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex18_CreditoEspecial\bin\Debug\net8.0\Ex18_CreditoEspecial.exe
+C:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex18_CreditoEspecial\bin\Debug\net8.0\Ex18_CreditoEspecial.deps.json
+C:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex18_CreditoEspecial\bin\Debug\net8.0\Ex18_CreditoEspecial.runtimeconfig.json
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex18_CreditoEspecial\bin\Debug\net8.0\Ex18_CreditoEspecial.dll
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex18_CreditoEspecial\bin\Debug\net8.0\Ex18_CreditoEspecial.pdb
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex18_CreditoEspecial\obj\Debug\net8.0\Ex18_CreditoEspecial.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex18_CreditoEspecial\obj\Debug\net8.0\Ex18_CreditoEspecial.AssemblyInfoInputs.cache
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex18_CreditoEspecial\obj\Debug\net8.0\Ex18_CreditoEspecial.AssemblyInfo.cs
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex18_CreditoEspecial\obj\Debug\net8.0\Ex18_CreditoEspecial.csproj.CoreCompileInputs.cache
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex18_CreditoEspecial\obj\Debug\net8.0\Ex18_CreditoEspecial.sourcelink.json
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex18_CreditoEspecial\obj\Debug\net8.0\Ex18_CreditoEspecial.dll
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex18_CreditoEspecial\obj\Debug\net8.0\refint\Ex18_CreditoEspecial.dll
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex18_CreditoEspecial\obj\Debug\net8.0\Ex18_CreditoEspecial.pdb
+C:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex18_CreditoEspecial\obj\Debug\net8.0\Ex18_CreditoEspecial.genruntimeconfig.cache
+C:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex18_CreditoEspecial\obj\Debug\net8.0\ref\Ex18_CreditoEspecial.dll
