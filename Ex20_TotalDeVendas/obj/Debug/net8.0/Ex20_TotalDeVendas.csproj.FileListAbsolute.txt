@@ -1,0 +1,15 @@
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex20_TotalDeVendas\bin\Debug\net8.0\Ex20_TotalDeVendas.exe
+C:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex20_TotalDeVendas\bin\Debug\net8.0\Ex20_TotalDeVendas.deps.json
+C:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex20_TotalDeVendas\bin\Debug\net8.0\Ex20_TotalDeVendas.runtimeconfig.json
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex20_TotalDeVendas\bin\Debug\net8.0\Ex20_TotalDeVendas.dll
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex20_TotalDeVendas\bin\Debug\net8.0\Ex20_TotalDeVendas.pdb
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex20_TotalDeVendas\obj\Debug\net8.0\Ex20_TotalDeVendas.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex20_TotalDeVendas\obj\Debug\net8.0\Ex20_TotalDeVendas.AssemblyInfoInputs.cache
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex20_TotalDeVendas\obj\Debug\net8.0\Ex20_TotalDeVendas.AssemblyInfo.cs
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex20_TotalDeVendas\obj\Debug\net8.0\Ex20_TotalDeVendas.csproj.CoreCompileInputs.cache
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex20_TotalDeVendas\obj\Debug\net8.0\Ex20_TotalDeVendas.sourcelink.json
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex20_TotalDeVendas\obj\Debug\net8.0\Ex20_TotalDeVendas.dll
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex20_TotalDeVendas\obj\Debug\net8.0\refint\Ex20_TotalDeVendas.dll
+c:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex20_TotalDeVendas\obj\Debug\net8.0\Ex20_TotalDeVendas.pdb
+C:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex20_TotalDeVendas\obj\Debug\net8.0\Ex20_TotalDeVendas.genruntimeconfig.cache
+C:\Users\Nilson\Downloads\IFSP\2Semestre2024\Natal\ExerciciosEmC-Sharp\Ex20_TotalDeVendas\obj\Debug\net8.0\ref\Ex20_TotalDeVendas.dll
