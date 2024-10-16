@@ -1,0 +1,15 @@
+C:\Users\ALUNO\ListaExercicios_Prof_Natal\Ex_21_Heranca\obj\Debug\net8.0\Ex_21_Heranca.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALUNO\ListaExercicios_Prof_Natal\Ex_21_Heranca\obj\Debug\net8.0\Ex_21_Heranca.AssemblyInfoInputs.cache
+C:\Users\ALUNO\ListaExercicios_Prof_Natal\Ex_21_Heranca\obj\Debug\net8.0\Ex_21_Heranca.AssemblyInfo.cs
+C:\Users\ALUNO\ListaExercicios_Prof_Natal\Ex_21_Heranca\obj\Debug\net8.0\Ex_21_Heranca.csproj.CoreCompileInputs.cache
+C:\Users\ALUNO\ListaExercicios_Prof_Natal\Ex_21_Heranca\obj\Debug\net8.0\Ex_21_Heranca.sourcelink.json
+C:\Users\ALUNO\ListaExercicios_Prof_Natal\Ex_21_Heranca\bin\Debug\net8.0\Ex_21_Heranca.exe
+C:\Users\ALUNO\ListaExercicios_Prof_Natal\Ex_21_Heranca\bin\Debug\net8.0\Ex_21_Heranca.deps.json
+C:\Users\ALUNO\ListaExercicios_Prof_Natal\Ex_21_Heranca\bin\Debug\net8.0\Ex_21_Heranca.runtimeconfig.json
+C:\Users\ALUNO\ListaExercicios_Prof_Natal\Ex_21_Heranca\bin\Debug\net8.0\Ex_21_Heranca.dll
+C:\Users\ALUNO\ListaExercicios_Prof_Natal\Ex_21_Heranca\bin\Debug\net8.0\Ex_21_Heranca.pdb
+C:\Users\ALUNO\ListaExercicios_Prof_Natal\Ex_21_Heranca\obj\Debug\net8.0\Ex_21_Heranca.dll
+C:\Users\ALUNO\ListaExercicios_Prof_Natal\Ex_21_Heranca\obj\Debug\net8.0\refint\Ex_21_Heranca.dll
+C:\Users\ALUNO\ListaExercicios_Prof_Natal\Ex_21_Heranca\obj\Debug\net8.0\Ex_21_Heranca.pdb
+C:\Users\ALUNO\ListaExercicios_Prof_Natal\Ex_21_Heranca\obj\Debug\net8.0\Ex_21_Heranca.genruntimeconfig.cache
+C:\Users\ALUNO\ListaExercicios_Prof_Natal\Ex_21_Heranca\obj\Debug\net8.0\ref\Ex_21_Heranca.dll
