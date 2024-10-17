@@ -30,10 +30,12 @@ public class Funcionario : Pessoa
         
     }
 
-    public void ImprimeDados(){
-        
-        Console.WriteLine($"Funcionário: {this.Nome} {this.Sobrenome}\nMatrícula: {this.Matricula}\nSalário: R${this.Salario:n}");
-        
+    public override void ImprimeDados()
+    {
+        base.ImprimeDados();
+        Console.WriteLine($"Matricula: {this.Matricula}\nSalário: R${this.Salario:n}");
     }
+
+
 
 }

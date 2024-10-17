@@ -23,4 +23,11 @@ public class Pessoa
         this.Sobrenome=Console.ReadLine();
     }
 
+    public virtual void ImprimeDados(){
+        
+        Console.WriteLine($"Funcionário: {this.Nome} {this.Sobrenome}");
+        
+    }
+
+
 }
